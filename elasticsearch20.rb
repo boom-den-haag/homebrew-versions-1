@@ -2,7 +2,7 @@ class Elasticsearch20 < Formula
   desc "Distributed search & analytics engine"
   homepage "https://www.elastic.co/products/elasticsearch"
   url "https://download.elasticsearch.org/elasticsearch/release/org/elasticsearch/distribution/tar/elasticsearch/2.0.0/elasticsearch-2.0.0.tar.gz"
-  sha256 "e369d8579bd3a2e8b5344278d5043f19f14cac88"
+  sha256 "b25f13f615337c2072964fd9fc5c7250f8a2a983b22198daf93548285d5d16df"
 
   bottle :unneeded
 
